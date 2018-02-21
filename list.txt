@@ -1,0 +1,1 @@
+["google.com", "youtube.com", "google-analytics.com", "detectportal.firefox.com", "shavar.services.mozilla.com", "gstatic.com", "csi.gstatic.com"]
